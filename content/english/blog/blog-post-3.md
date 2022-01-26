@@ -1,31 +1,42 @@
 ---
-author: Mark Dinn
+author: ศ.ดร.สุวิมล ว่องวาณิช
 bg_image: images/backgrounds/page-title.jpg
 categories:
-- Eco System
-date: "2019-07-06T15:27:17+06:00"
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
-  nostrud.
+- Innovative Classroom
+date: "2021-06-14T15:27:17+06:00"
+description: 
 draft: false
-image: images/blog/post-3.jpg
+image: images/blog/shutterstock_176043857.jpg
 tags:
-- Advice
-- Eco
-title: Elegant Light Box Paper Cut Dioramas
+- Innovative Classroom
+title: มโนทัศน์ของการออกแบบชั้นเรียนนวัตกรรม
 type: post
 ---
 
-### The standard Lorem Ipsum passage, used since the 1500s
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+“ชั้นเรียนนวัตกรรม” (innovative classroom) เป็นแนวคิดสากลที่มีหลักฐานเชิงประจักษ์ว่าจะช่วยพัฒนาความคิดสร้างสรรค์ของผู้เรียน ทำให้ผู้เรียนมีความสุขในการเรียน เป็นชั้นเรียนเปิดกว้างทางความคิด สร้างแรงบันดาลใจและความเชื่อมั่นในการเรียนของผู้เรียน
 
 
-#### 1914 translation by H. Rackham
-But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, **the master-builder** of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?
+ลักษณะของชั้นเรียนนวัตกรรมตามความคิดของ Lynch (2018) คือ ชั้นเรียนที่มีลักษณะ 
 
-> On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue
+1. มีการสะท้อนคิดในชั้นเรียน ทำให้เกิดการปรับปรุงพัฒนาความคิดใหม่ตลอดเวลา
 
-#### Section 1.10.33 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
+2. มีการเรียนรู้อย่างต่อเนื่อง 
 
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+3. มีการสร้างสรรค์ วิธีการแก้ปัญหาที่ท้าทาย การคิดนอกกรอบ 
+
+4. มีการเชื่อมโยงสิ่งที่เรียนรู้กับสภาพบริบทจริง
+
+5. มีหลักการและข้อกำหนดเป็นกติกาในชั้นเรียน
+
+6. มีการส่งเสริมให้เกิดการสังเกต มองเห็นแก้ปัญหาที่เกิดขึ้นเพื่อหาวิธีแก้ไข 
+
+7. มีการทำงานร่วมกันระหว่างผู้เรียน 
+
+8. มีการจัดการในชั้นเรียนด้วยวิธีการที่หลากหลาย
+
+9. มีการตั้งเป้าหมายในการเรียน มุ่งเน้นการสร้างนวัตกรรม 
+
+10. ให้โอกาสในการแก้ไขปรับปรุงความคิด หรือวิธีแก้ปัญหาตลอดเวลา
+
+
+ทั้งนี้ บุคคลที่เป็นครูในชั้นเรียนตามแนวคิดของ Shulman (2018) ต้องมีคุณลักษณะสำคัญ คือ 1) มีกรอบคิดติดยึด (mindset) ที่เหมาะสมในการออกแบบชั้นเรียนนวัตกรรม 2) มีการสะท้อนคิดและทบทวนการทำงานของตนเอง 3) ใช้คำถามปลายเปิดให้ผู้เรียนแสดงความเห็น 4) สร้างสภาพแวดล้อมการเรียนรู้ที่ยืดหยุ่น 5) สร้างสถานที่สำหรับผู้เรียนที่กระตุ้นความคิดสร้างสรรค์ แรงบันดาลใจ 6) ใช้วิธีการค้นหาปัญหาที่เกิดขึ้นและต้องการนำมาแก้ไข 7) ให้โอกาสผู้เรียนลองทำ กล้าเสี่ยงและเรียนรู้จากความล้มเหลว 8) ใช้การเรียนรู้ห้องเรียนกลับด้าน นำสิ่งที่เรียนรู้มาก่อนมาอภิปรายในชั้นเรียน 9) เชิญผู้ประกอบการหรือผู้สร้างสรรค์นวัตกรรมมาให้ประสบการณ์แก่ผู้เรียนในชั้นเรียน 10) ใช้กระบวนการคิดออกแบบในชั้นเรียน

@@ -1,28 +1,28 @@
 baseURL: https://demo.gethugothemes.com/educenter/
-title: Educenter | hugo education template
+title: DCI | Design Thinking, Coaching, and Innovative Classroom Designing
 theme: educenter-hugo
 paginate: '6'
 summaryLength: '10'
-disqusShortname: educenter
+disqusShortname: []
 disableLanguages: []
 params:
-  address: 9567 Turner Trace Apt. BC C3G8A4
-  author: Themefisher
+  address: 254 ถนนพญาไท แขวงวังใหม่ เขตปทุมวัน กรุงเทพฯ 10330
+  author: DCI Team
   contact_form_action: '#'
   cookies:
-    enable: yes
+    enable: no
     expire_days: 2
   description: This is meta description
-  email: info@educenter.com
+  email: upskill.reskill.educhula@gmail.com
   google_analitycs_id: ''
-  logo: images/logo.png
+  logo: images/logo2.png
   map:
-    enable: yes
+    enable: no
     gmap_api: https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places
     map_latitude: '51.5223477'
     map_longitude: '-0.1622023'
     map_marker: images/marker.png
-  mobile: '+211234565523'
+  mobile: ' '
   plugins:
     css:
       - link: plugins/bootstrap/bootstrap.min.css
@@ -57,14 +57,14 @@ params:
       link: '#'
       title: linkedin
   subscription:
-    enable: yes
+    enable: no
     mailchimp_form_action: https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074
     mailchimp_form_name: b_463ee871f45d2d93748e77cad_a0a2c6d074
   top_header: yes
 Languages:
   en:
     contentDir: content/english
-    copyright: Copyright &copy; 2021 a hugo theme by [Themefisher](https://themefisher.com/hugo-themes/)
+    copyright: Copyright &copy; 2022 DCI Team by [Faculty of Education, Chulalongkorn University](https://www.facebook.com/profile.php?id=100069330084205)
     home: Home
     languageCode: en-us
     languageName: En
@@ -72,93 +72,31 @@ Languages:
       footer:
         - name: teacher
           url: teacher
-        - name: notice
+        - name: ข่าวสาร/ประกาศ
           url: notice
-        - name: event
+        - name: กำหนดการอบรม
           url: event
-        - name: scholarship
-          url: scholarship
-        - name: research
-          url: research
+
       main:
-        - name: About
+        - name: เกี่ยวกับหลักสูตร
           url: about
           weight: 1
-        - name: course
+        - name: โมดูลการเรียนรู้
           url: course
           weight: 2
         - hasChildren: yes
           name: Pages
           weight: 3
-        - name: teacher
-          parent: Pages
-          url: teacher
-        - name: notice
+        - name: ข่าวสาร/ประกาศ
           parent: Pages
           url: notice
-        - name: event
+        - name: กำหนดการ
           parent: Pages
           url: event
-        - name: scholarship
-          parent: Pages
-          url: scholarship
-        - name: research
+        - name: ผลผลิตของหลักสูตร
           parent: Pages
           url: research
-        - name: blog
+        - name: ความรู้เผยแพร่
           url: blog
           weight: 4
-        - name: Contact
-          url: contact
-          weight: 5
     weight: 1
-  fr:
-    contentDir: content/french
-    copyright: Copyright &copy; 2021 a hugo theme by [Themefisher](https://themefisher.com/hugo-themes/)
-    home: Accueil
-    languageCode: fr-fr
-    languageName: Fr
-    menu:
-      footer:
-        - name: teacher
-          url: teacher
-        - name: notice
-          url: notice
-        - name: event
-          url: event
-        - name: scholarship
-          url: scholarship
-        - name: research
-          url: research
-      main:
-        - name: À propos
-          url: about
-          weight: 1
-        - name: Cours
-          url: course
-          weight: 2
-        - hasChildren: yes
-          name: Pages
-          weight: 3
-        - name: teacher
-          parent: Pages
-          url: teacher
-        - name: notice
-          parent: Pages
-          url: notice
-        - name: Évènement
-          parent: Pages
-          url: event
-        - name: Cursus
-          parent: Pages
-          url: scholarship
-        - name: research
-          parent: Pages
-          url: research
-        - name: blog
-          url: blog
-          weight: 4
-        - name: Contact
-          url: contact
-          weight: 5
-    weight: 2

@@ -1,16 +1,27 @@
 ################################# Slider #####################################
 slider:
   enable : true
-  bg_image : "images/banner/banner-1.jpg"
+  bg_image : "images/banner/innovative.jpg"
   slider_item:
     # slider item loop
-    - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "Design Thinking, Coaching and Innovative Classroom Designing"
+      content : "หลักสูตร การคิดออกแบบ โค้ชชิ่ง และการออกแบบชั้นเรียนนวัตกรรม เพื่อสร้างและยกระดับทักษะการทำงานของบุคลากรทางการศึกษาสำหรับการเรียนรู้ออนไลน์และออฟไลน์"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
+        label : "สมัครเข้าร่วมโครงการ"
+        link : "https://forms.gle/LESQ5Tf21yhrezEW8"
+
+    # slider item loop
+    - title : "ประกาศผลผู้ผ่านการคัดเลือก"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : false
         label : "Apply now"
         link : "contact"
 
@@ -21,25 +32,14 @@ slider:
       animation_out : "right"
       # available animation : left, right, up, down
       button:
-        enable : true
-        label : "Apply now"
-        link : "contact"
-
-    # slider item loop
-    - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
-      animation_in : "left"
-      animation_out : "right"
-      # available animation : left, right, up, down
-      button:
-        enable : true
+        enable : false
         label : "Apply now"
         link : "contact"
 
 
 ############################### Banner feature ###############################
 banner_feature:
-  enable : true
+  enable : false
   image : "images/banner/banner-feature.png"
   feature_item:
     # feature item loop
@@ -66,12 +66,9 @@ banner_feature:
 ############################## about ##################################
 about:
   enable : true
-  title : "About Educenter"
-  image : "images/about/about-us.jpg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat
-
-
-  cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem "
+  title : "เกี่ยวกับหลักสูตร"
+  image : "images/about/idea.jpg"
+  content : "โครงการนี้ได้พัฒนาหลักสูตรระยะสั้นโดยออกแบบชุด “โมดูล” (modules) เพื่อสร้างทักษะใหม่ (reskill) และ ยกระดับทักษะที่มีอยู่เดิม (upskill) ของบุคลากรทางการศึกษาทุกประเภท เป้าหมายหลักของโครงการคือ มุ่งพัฒนาทักษะการทำงานของบุคลากรทางการศึกษาที่เป็นกลุ่มเป้าหมายในการอบรม ผลลัพธ์ของโครงการจะทำให้ได้บัณฑิตพันธุ์ใหม่หรือครูรุ่นใหม่ที่สามารถออกแบบชั้นเรียนโดยใช้เทคโนโลยีหรือนวัตกรรมทางการศึกษาได้อย่างมีประสิทธิภาพ และประสิทธิผล การสร้างชั้นเรียนนวัตกรรมจะส่งผลให้ผู้เรียนมีคุณลักษณะที่พึงประสงค์ตามมาตรฐานการศึกษาของชาติที่กำหนดในรูปของ DOE ผู้เรียนที่ผ่านการเรียนรู้จาก ชั้นเรียนนวัตกรรมจะมีทักษะความสามารถที่สอดคล้องกับความต้องการของยุคสมัยใหม่และเหมาะกับแนวทางการพัฒนาประเทศต่อไป"
   button:
     enable : true
     label : "Learn more"
@@ -80,34 +77,30 @@ about:
 
 ############################# Course ################################
 course:
-  enable : true
+  enable : false
   title : "Our Course"
   # course item comes from "content/**/course" folder.
 
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Click to Join the Advance Workshop"
-  title : "Training In Advannce Networking"
+  subtitle : 
+  title : "สนใจเข้าร่วมหลักสูตรแล้วใช่มั้ย?"
   button:
     enable : true
-    label : "join now"
-    link : "contact"
+    label : "สมัครเข้าร่วมโครงการ"
+    link : "https://docs.google.com/forms/d/e/1FAIpQLSdVNA56AeqwoxVfdyA27QLnUr8IP3kHQy__7l-DcIc67MUsvQ/closedform"
 
 
 ######################## Success story #############################
 success_story:
-  enable : true
+  enable : false
   bg_image : "images/backgrounds/success-story.jpg"
-  title : "Success Stories"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
-            
-            
-  ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-  dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
+  title : "ผลผลิตของหลักสูตร"
+  content : 
   # video link
-  video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
-
+  video_link : "https://www.youtube.com/watch?v=xNzVarNQIUU&feature=youtu.be"
+  
 
 ############################# event ################################
 event:
@@ -121,20 +114,20 @@ funfacts:
   enable : true
   funfact_item:
     # funfact item loop
-    - name : "TEACHERS"
-      count : "60"
+    - name : "Learning Modules"
+      count : "6"
 
     # funfact item loop
-    - name : "COURSES"
-      count : "50"
+    - name : "Total Training Hours"
+      count : "315"
 
     # funfact item loop
-    - name : "STUDENTS"
-      count : "1000"
+    - name : "Lectures Hours"
+      count : "45"
 
     # funfact item loop
-    - name : "SATISFIED CLIENT"
-      count : "1400"
+    - name : "Practice Hours"
+      count : "270"
 
 # funfact is for about page
 

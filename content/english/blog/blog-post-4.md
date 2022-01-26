@@ -1,31 +1,43 @@
 ---
-author: Mark Dinn
+author: ศ.ดร.สุวิมล ว่องวาณิช
 bg_image: images/backgrounds/page-title.jpg
 categories:
-- Mathmatics Learning
-date: "2019-07-06T15:27:17+06:00"
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
-  nostrud.
+- Coaching
+date: "2021-06-14T15:27:17+06:00"
+description: 
 draft: false
-image: images/blog/post-2.jpg
+image: images/blog/Executive-coaching.png
 tags:
-- Advice
-- Rules
-title: Elegant Light Box Paper Cut Dioramas
+- Coaching
+title: มโนทัศน์ของการโค้ชชิ่ง
 type: post
 ---
 
-### The standard Lorem Ipsum passage, used since the 1500s
+โดยเหตุที่การปฏิบัติงานในวิชาชีพครูมีบุคคลทางการศึกษาที่เกี่ยวข้องหลายฝ่าย แต่ละฝ่ายต่างมีบทบาทหน้าที่เฉพาะตน เช่น อาจารย์ในคณะครุศาสตร์และอาจารย์พี่เลี้ยงมีบทบาทหน้าในการพัฒนาทักษะวิชาชีพแก่นิสิตนักศึกษาครูที่จะเป็นครูรุ่นใหม่ ศึกษานิเทศก์มีหน้าที่ในการสนับสนุนช่วยเหลือ การทำงานของครูในสถานศึกษา ครูในโรงเรียนซึ่งมีทักษะความเชี่ยวชาญที่ต่างกันสามารถช่วยเหลือ การทำงานร่วมกัน บัณฑิตหรือครูรุ่นใหม่สามารถแลกเปลี่ยนการเรียนรู้ซึ่งกันและกัน และยังสามารถส่งผ่านความรู้ใหม่ที่ทันสมัยให้กับครูในโรงเรียนที่ตนเองต้องปฏิบัติงานร่วมกันในอนาคต นั่นหมายความว่า ผู้เกี่ยวข้องกับการปฏิบัติงานในวิชาชีพครูจำเป็นต้องได้รับการเสริมสร้างทักษะใหม่ในการทำงาน คือ การมีทักษะการโค้ชชิ่งเพื่อถ่ายทอดความรู้และประสบการณ์เรียนรู้ระหว่างกัน
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+การโค้ชชิ่งหรือการชี้แนะ (coaching) เป็นกระบวนการของผู้ชี้แนะในการสร้างความสัมพันธ์ระหว่างบุคคล เพื่อช่วยให้เกิดการเรียนรู้ จนบรรลุเป้าหมายการทำงานในระดับที่สูงขึ้น มีความเข้มแข็ง และภาคภูมิใจในตนเอง อันนับเป็นกระบวนการเสริมพลังอำนาจของบุคคลที่ได้รับการชี้แนะ (Mink, Owen, & Mink, 1993)
 
 
-#### 1914 translation by H. Rackham
-But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, **the master-builder** of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?
+#### แนวคิดสำคัญของการโค้ชชิ่ง
 
-> On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue
+หลักการชี้แนะการเรียนการสอนแบบมีส่วนร่วม (Knight, 2009) มีลักษณะสำคัญสำคัญหลายประการ ดังต่อไปนี้
 
-#### Section 1.10.33 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
+1.ความเท่าเทียมกัน (equality) คือ ผู้ชี้แนะและผู้รับการชี้แนะเป็นเพื่อนร่วมงานที่ทำงานกันอย่างเท่าเทียม
 
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+2.ทางเลือก (choice) ครูเป็นผู้กำหนดประเด็นการเรียนรู้และกระบวนการเรียนรู้แบบกำหนดเอง (customize) ตามความต้องการจำเป็นของตนเอง และเป็นผู้ผลักดันการพัฒนาตนเองด้วย
+
+3.การแสดงความคิด (voice) เสียง ความคิดเห็น และมุมมองของสมาชิกทุกคนมีค่า โดยผู้ชี้แนะเป็นผู้กระตุ้นให้สมาชิกแสดงความคิดเห็นของตนเองเกี่ยวกับเนื้อหาและวิธีการเรียนรู้ ตามแผนงานที่กำหนดไว้
+
+4.การสนทนา (dialogue) เนื่องจากเป็นการทำงานร่วมกัน ดังนั้น จึงไม่มีใครเป็นผู้นำหรือปรับเปลี่ยนวิธีการดำเนินการเอง โดยไม่มีการสื่อสารสนทนากัน สมาชิกทุกคนต้องทำงานร่วมกันอย่างจริงใจและไว้วางใจกัน เพื่อให้สามารถสะท้อนความคิดเรื่องวัสดุสารการเรียนรู้และการปฏิบัติงาน
+
+5.การสะท้อนความคิด (reflection) ครูจะได้รับการสนับสนุนให้คิดและพิจารณาอย่างรอบคอบก่อนเลือกประเด็นและการนำไปปฏิบัติ
+
+6.การปฏิบัติ (praxis) สิ่งสำคัญหลังการสะท้อนคิดและการวางแผนงาน คือ การลงมือปฏิบัติตามแผนในการทำงานจริงประจำวัน โดยมุ่งเน้นที่การช่วยให้ครูนำความคิดของตนไปปรับใช้ในห้องเรียน และเรียนรู้ไปด้วยขณะจัดการเรียนการสอน
+
+7.การแลกเปลี่ยนเรียนรู้ไปด้วยกัน (reciprocity) ประโยชน์ที่สมาชิกได้รับจากกระบวนการชี้แนะการเรียนการสอน คือ ผู้ชี้แนะก็เกิดการเรียนรู้ไปพร้อมกับครูด้วย
+
+#### องค์ประกอบของคุณลักษณะบุคคลที่ทำหน้าที่โค้ชชิ่ง
+
+เป็นบุคคลที่มีความเชื่อในการทำงานร่วมกัน มีความคิดริเริ่มสร้างสรรค์ มีใจเปิดกว้างทางความคิด กล้าตัดสินใจ ลองผิดลองถูก ไม่กลัวความล้มเหลว มีทักษะการนำความคิดที่ออกแบบสู่การทำงานให้เกิดผล ทำงานแบบทวนซ้ำ ปรับปรุงพัฒนาต่อเนื่อง
+
+บทบาทของโค้ช คือ เป็นผู้ให้คำปรึกษา ชี้แนวแนวทางการทำงาน เป็นผู้นำการเปลี่ยนแปลง มีทักษะสำคัญ คือ ความสามารถในการทำให้กำหนดเป้าหมายการทำงานกับผู้รับการโค้ช มีความสามารถในการสร้างปฏิสัมพันธ์การทำงานร่วมกัน ทักษะการสร้างแรงจูงใจ การให้กำลังใจ สนับสนุนการทำงาน ความช่างสังเกต เป็นผู้ฟัง ผู้พูดที่ดี สามารถถ่ายทอดความรู้และประสบการณ์ได้ และให้ข้อมูลป้อนกลับที่ทำให้ผู้ได้รับการโค้ชสามารถปรับหรือพัฒนาการทำงานได้

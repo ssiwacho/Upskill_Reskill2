@@ -1,31 +1,61 @@
 ---
-author: John Doe
+author: ศ.ดร.สุวิมล ว่องวาณิช
 bg_image: images/backgrounds/page-title.jpg
 categories:
-- Education System
-date: "2019-07-06T15:27:17+06:00"
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
-  nostrud.
+- Design Thinking
+date: "2021-06-14T15:27:17+06:00"
+description: 
 draft: false
-image: images/blog/post-2.jpg
+image: images/blog/DT.png
 tags:
-- Education
-- Automation
-title: Elegant Light Box Paper Cut Dioramas
+- Design Thinking
+title: มโนทัศน์ของการคิดออกแบบ
 type: post
 ---
 
-### The standard Lorem Ipsum passage, used since the 1500s
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+**การคิดออกแบบ (design thinking)** เป็นแนวคิดสมัยใหม่ที่ยอมรับกันในปัจจุบันในการสร้างความคิดใหม่ในการแก้ปัญหาซับซ้อน การคิดออกแบบเป็นกรอบคิด (mindset) และสมรรถนะ (competency) ที่อาศัยการทำงานเป็นทีมผ่านการระดมความคิดจากบุคคลที่มีประสบการณ์หรือมุมมองที่หลากหลายมาช่วยกันคิดค้นพัฒนาวิธีการปัญหาที่ซับซ้อนแก้ไขยาก 
 
 
-#### 1914 translation by H. Rackham
-But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, **the master-builder** of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?
+การคิดออกแบบเป็นแนวคิดที่บุคลากรทางการศึกษายังไม่ค่อยได้รับการพัฒนามาก่อนในหลักสูตรผลิตครูในอดีต และแม้ในปัจจุบันนี้ หลักสูตรที่มีเป้าหมายเพื่อเสริมสร้าง ทักษะการคิดออกแบบ ให้กับบุคลากรทางการศึกษาพบว่ามีไม่มากนัก ส่วนใหญ่เป็นหลักสูตรที่ดำเนินการโดยบุคคลในวงการธุรกิจหรือนอกวงการศึกษา โครงการนี้จึงออกแบบหลักสูตรโดยนำแนวคิดร่วมสมัยมาใช้กับการพัฒนาคุณภาพการศึกษา
 
-> On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue
+จะเห็นว่า “การคิดออกแบบ” เป็นทักษะใหม่ในการทำงาน (reskill) ที่ต้องสร้างให้เกิดขึ้น ส่วน “การออกแบบชั้นเรียนนวัตกรรม” เป็นทักษะการทำงานที่ต้องยกระดับให้สูงขึ้นจากเดิม (upskill) ทั้งสองทักษะนี้เป็นจุดเน้นของโครงการนี้ แต่ด้วยการเปลี่ยนแปลงของโลกที่เป็นไปอย่างรวดเร็วในทุกด้าน การเสริมสร้างหรือพัฒนากำลังคนให้เกิดขึ้นกับบุคลากรทางการศึกษาไม่สามารถดำเนินการได้อย่างทั่วถึง ครอบคลุมทุกกลุ่มเป้าหมายได้อย่างรวดเร็ว หากปราศจากการถ่ายทอดความรู้ระหว่างกันในวงกว้าง
 
-#### Section 1.10.33 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
+#### ความหมายของการคิดออกแบบ
 
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+การคิดออกแบบ หมายถึง การทำงานที่ใช้การระดมความคิดของผู้เกี่ยวข้องในการสร้างสรรค์แนวทางใหม่ ๆ ในการแก้ปัญหา และให้ความสำคัญกับการทำความเข้าใจอารมณ์ความรู้สึกของผู้ใช้ 
+
+#### กระบวนการคิดออกแบบ 
+
+กระบวนการคิดออกแบบ (design thinking process) หมายถึง ขั้นตอนการทำงานเพื่อให้ได้ความคิดในการออกแบบต้นแบบ/นวัตกรรมตามแนวคิดของ d.school มหาวิทยาลัย Stanford ประกอบด้วยการดำเนินงาน 5 ขั้นตอน ได้แก่ 
+
+1. การทำความเข้าใจอารมณ์ความรู้สึกของผู้ใช้ (empathize) 
+
+2. การระบุปัญหา (define)
+
+3. การสร้างความคิด (ideate)
+
+4. การสร้างต้นแบบ (prototype)
+
+5. การทดลองใช้ต้นแบบ (testing)
+
+
+
+
+
+#### แนวคิดสำคัญของการคิดออกแบบ
+
+การคิดออกแบบเป็นกรอบคิดติดยึดด้านการคิดออกแบบ (design thinking mindset) (Dosi, Rosati, & Vignoli, 2018) หมายถึง ชุดของทัศนคติ ความคิดเห็น ความเชื่อ และพฤติกรรมที่เป็นลักษณะของบุคคล กลุ่มคน หรือองค์กร ซึ่งสามารถเปลี่ยนแปลงได้ตามเวลาและประสบการณ์ที่มีต่อ การคิดออกแบบ
+
+
+การคิดออกแบบเป็นสมรรถนะ/ความสามารถ หรือ ทักษะ (design thinking competency/ capability) ในการปฏิบัติงานที่ใช้กระบวนการของการคิดออกแบบ เป็นความสามารถในการสร้างความคิดและการกระทำที่สร้างสรรค์ ได้แก่ ความมั่นใจในการสร้างสรรค์ (creative confidence) (Karwowski, Han, & Beghetto, 2019) สมรรถนะสำคัญ คือ และทักษะความสามารถในการทำงานแบบร่วมมือ (collaboration skills) (Lor, 2017)
+
+
+การคิดออกแบบเป็นกระบวนการทำงาน ส่วนใหญ่จะยึด 5 ขั้น ของ d.school ได้แก่ ขั้นการเข้าใจอารมณ์ความรู้สึก ขั้นการกำหนดปัญหา ขั้นการสร้างความคิด ขั้นการสร้างต้นแบบ และขั้นการทดสอบ ลักษณะนี้ถือว่าเป็นกระบวนการการคิดออกแบบ (design thinking process)
+
+
+
+
+
+
+

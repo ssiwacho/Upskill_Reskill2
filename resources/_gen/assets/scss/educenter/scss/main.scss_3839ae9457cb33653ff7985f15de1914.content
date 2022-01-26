@@ -9,6 +9,7 @@ VERSION:	Versoin Number
 -------------------------------------------------------------------*/
 /*  typography */
 @import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@400;500;600;700&family=Noto+Serif+Thai:wght@400;600&family=Thasadith:wght@400;700&display=swap");
 @font-face {
   font-family: 'futura-bold';
   src: url("../fonts/Futura-Bold.woff") format("woff");
@@ -17,26 +18,27 @@ VERSION:	Versoin Number
 
 body {
   line-height: 1.2;
-  font-family: "Poppins", sans-serif;
+  font-family: "Noto Serif Thai", sans-serif;
   -webkit-font-smoothing: antialiased;
-  font-size: 15px;
+  font-size: 16px;
   color: #5c5c77; }
 
 p, .paragraph {
   font-weight: 400;
   color: #5c5c77;
-  font-size: 15px;
-  line-height: 1.9;
-  font-family: "Poppins", sans-serif; }
+  font-size: 17px;
+  line-height: 1.6;
+  font-family: "Noto Serif Thai", sans-serif; }
 
 h1, h2, h3, h4, h5, h6 {
   color: #1e1e4b;
-  font-family: "futura-bold";
+  font-family: "Noto Sans Thai";
   font-weight: 700;
   line-height: 1.2; }
 
 h1, .h1 {
-  font-size: 60px; }
+  font-size: 60px;
+  font-family: 'futura-bold'; }
   @media (max-width: 575px) {
     h1, .h1 {
       font-size: 45px; } }
@@ -65,10 +67,15 @@ h6, .h6 {
   @media (max-width: 575px) {
     h6, .h6 {
       font-size: 14px; } }
+table, th, td {
+  border: 1px solid black;
+  width: 100%;
+  border-color: grey; }
+
 /* Button style */
 .btn {
   font-size: 16px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Noto Serif Thai", sans-serif;
   text-transform: capitalize;
   padding: 15px 40px;
   border-radius: 0;
@@ -267,7 +274,7 @@ a h4:hover {
   color: #1e1e4b !important; }
 
 .font-secondary {
-  font-family: "futura-bold"; }
+  font-family: "Noto Sans Thai"; }
 
 .mb-10 {
   margin-bottom: 10px !important; }
@@ -551,7 +558,7 @@ link:focus,
   color: #1e1e4b;
   transition: .2s ease;
   text-transform: capitalize;
-  font-family: "Poppins", sans-serif; }
+  font-family: "Noto Serif Thai", sans-serif; }
   @media (max-width: 991px) {
     .navbar .dropdown-item {
       text-align: center; } }
@@ -712,7 +719,7 @@ link:focus,
 .card-date {
   position: absolute;
   background: #ffbc3b;
-  font-family: "futura-bold";
+  font-family: "Noto Sans Thai";
   text-align: center;
   padding: 10px;
   color: #fff;

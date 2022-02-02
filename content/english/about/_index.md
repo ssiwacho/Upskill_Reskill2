@@ -35,3 +35,38 @@ title: เกี่ยวกับหลักสูตร
 
 
 
+
+### เนื้อหารายสัปดาห์
+
+* สัปดาห์ที่ 1 : หลักการโค้ชชิ่งเชิงสร้างสรรค์  โดย ดร.พงศ์ปณต พัสระ
+
+* สัปดาห์ที่ 2 : กระบวนการโค้ชชิ่ง และการให้ข้อมูลป้อนกลับ โดย ดร.พงศ์ปณต พัสระ
+
+* สัปดาห์ที่ 3 : Design Thinking โดย รศ.ดร.ศจีมาจ ณ วิเชียร
+
+* สัปดาห์ที่ 4 : Innovative Teaching โดย อ.ธงชัย โรจน์กังสดาล
+
+* สัปดาห์ที่ 5 : Research for innovative classroom using design thinking โดย ศ.ดร.สุวิมล ว่องวาณิช
+
+* สัปดาห์ที่ 6 : Infographic and Storytelling โดย อ.ฐิติวุฒิ นันทิภาคย์หิรัญ
+
+* สัปดาห์ที่ 7 : Presentation Techniques and Tools โดย ผศ.ดร.อภิสักก์ สินธุภัค
+
+* สัปดาห์ที่ 8 : Digital tools for innovative classroom โดย อ.ดร.ชุติวัฒน์ สุวัตถิพงศ์
+
+* สัปดาห์ที่ 9 : Virtual classroom โดย ผศ.ดร.บุญชู บุญลิขิตศิริ
+
+* สัปดาห์ที่ 10 : Digital assessment tool and feedback โดย อ.ดร.ชยุตม์ ภิรมย์สมบัติ
+
+* สัปดาห์ที่ 11 : Classroom Discourse กับการส่งเสริมชั้นเรียนนวัตกรรม โดย อ.ดร.ชยุตม์ ภิรมย์สมบัติ
+
+* สัปดาห์ที่ 12 : Neuroscience (Cognitive Load) and Innovative Classroom โดย รศ.ดร.ภัทราวดี มากมี
+
+* สัปดาห์ที่ 13 : UDL: Universal Design for Learning โดย อ.ดร.วาทินี อมรไพศาลเลิศ
+
+* สัปดาห์ที่ 14 : Class Presentation โดย ทีมบริหารหลักสูตร
+
+* สัปดาห์ที่ 15 : การทดสอบความรู้หลังเรียน และปิดโครงการ โดย ทีมบริหารหลักสูตร
+
+
+

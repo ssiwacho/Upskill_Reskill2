@@ -1,12 +1,10 @@
 ---
 bg_image: images/backgrounds/page-title.jpg
 date: "2019-07-06T15:27:17+06:00"
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
-  nostrud.
+description: sdfsdfsd
 download_link: '#'
 draft: true
-title: Teaching Materials and Testing Methods
+title: รายชื่อผู้ผ่านการคัดเลือกเข้าเรียนในหลักสูตร DCI รุ่นที่ 2
 type: notice
 ---
 

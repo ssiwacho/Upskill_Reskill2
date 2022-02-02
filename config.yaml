@@ -44,23 +44,11 @@ params:
     - icon: ti-facebook
       link: '#'
       title: facebook
-    - icon: ti-twitter-alt
-      link: '#'
-      title: twitter
-    - icon: ti-instagram
-      link: '#'
-      title: instagram
-    - icon: ti-github
-      link: '#'
-      title: github
-    - icon: ti-linkedin
-      link: '#'
-      title: linkedin
   subscription:
     enable: no
     mailchimp_form_action: https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074
     mailchimp_form_name: b_463ee871f45d2d93748e77cad_a0a2c6d074
-  top_header: yes
+  top_header: no
 Languages:
   en:
     contentDir: content/english
@@ -70,26 +58,23 @@ Languages:
     languageName: En
     menu:
       footer:
-        - name: teacher
+        - name: ทีมบริหารจัดการหลักสูตร
           url: teacher
         - name: ข่าวสาร/ประกาศ
-          url: notice
+          url: scholarship
         - name: กำหนดการอบรม
           url: event
 
       main:
         - name: เกี่ยวกับหลักสูตร
-          url: about
+          url: "about"
           weight: 1
-        - name: โมดูลการเรียนรู้
-          url: course
-          weight: 2
         - hasChildren: yes
           name: Pages
-          weight: 3
-        - name: ข่าวสาร/ประกาศ
+          weight: 2
+        - name: สรุปการเรียนรู้ของผู้เข้าอบรม
           parent: Pages
-          url: notice
+          url: author/john-doe/
         - name: กำหนดการ
           parent: Pages
           url: event

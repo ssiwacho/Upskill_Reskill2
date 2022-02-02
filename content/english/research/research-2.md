@@ -6,7 +6,7 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ei
   nostrud.
 draft: false
 image: images/research/research-2.jpg
-title: Geography
+title: Good Practice 2
 type: research
 ---
 

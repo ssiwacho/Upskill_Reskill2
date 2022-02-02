@@ -14,27 +14,15 @@ slider:
         label : "สมัครเข้าร่วมโครงการ"
         link : "https://forms.gle/LESQ5Tf21yhrezEW8"
 
-    # slider item loop
-    - title : "ประกาศผลผู้ผ่านการคัดเลือก"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "ปฐมนิเทศหลักสูตร DCI"
+      content : "วันศุกร์ที่ 4 กุมภาพันธ์ 2565 เวลา 18:00-21:00 น."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
-        enable : false
-        label : "Apply now"
-        link : "contact"
-
-    # slider item loop
-    - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
-      animation_in : "left"
-      animation_out : "right"
-      # available animation : left, right, up, down
-      button:
-        enable : false
-        label : "Apply now"
-        link : "contact"
+        enable : true
+        label : "เข้าสู่กิจกรรมปฐมนิเทศ"
+        link : "https://chula.zoom.us/j/4546000348"
 
 
 ############################### Banner feature ###############################
@@ -97,7 +85,7 @@ success_story:
   enable : false
   bg_image : "images/backgrounds/success-story.jpg"
   title : "ผลผลิตของหลักสูตร"
-  content : 
+  content : ตัวอย่างผลิตที่ได้จากหลักสูตร DCI รุ่นที่ 1
   # video link
   video_link : "https://www.youtube.com/watch?v=xNzVarNQIUU&feature=youtu.be"
   
@@ -136,5 +124,5 @@ funfacts:
 ############################# blog ################################
 blog:
   enable : true
-  title : "Latest News"
+  title : "ความรู้เผยแพร่ของหลักสูตร"
   # blog item comes from "content/**/blog" folder.

@@ -48,23 +48,23 @@ h2, .h2{
 }
 
 h3, .h3{
-  font-size: 25px;
+  font-size: 20px;
   @include mobile {
-    font-size: 20px;
+    font-size: 16px;
   }
 }
 
 h4, .h4{
-  font-size: 20px;
+  font-size: 16px;
   @include mobile {
-    font-size: 18px;
+    font-size: 15px;
   }
 }
 
 h5, .h5{
   font-size: 18px;
   @include mobile {
-    font-size: 16px;
+    font-size: 15px;
   }
 }
 

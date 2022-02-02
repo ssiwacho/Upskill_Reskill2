@@ -15,5 +15,12 @@ social:
 title: John doe
 ---
 
+
+### สรุปการเรียนรู้
+
+
+<iframe height="600" width="100%" frameborder="no" src="https://siwachoat.shinyapps.io/dcireport/"> </iframe>
+
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.
 Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.

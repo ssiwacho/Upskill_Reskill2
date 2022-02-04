@@ -74,13 +74,10 @@ Languages:
           weight: 2
         - name: สรุปการเรียนรู้ของผู้เข้าอบรม
           parent: Mores
-          url: student
+          url: research/research-2
         - name: กำหนดการ
           parent: Mores
           url: event
-        - name: ผลผลิตของหลักสูตร
-          parent: Mores
-          url: research
         - name: ความรู้เผยแพร่
           url: blog
           weight: 4

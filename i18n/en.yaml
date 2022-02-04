@@ -86,8 +86,7 @@
   translation: links
 
 - id: courses
-  translation: Courses
-
+  translation: ""
 - id: new_notice
   translation: new notice
 

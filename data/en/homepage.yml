@@ -21,7 +21,7 @@ slider:
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "เข้าสู่กิจกรรมปฐมนิเทศ"
+        label : "เข้าสู่กิจกรรมวันแรกพบ"
         link : "https://chula.zoom.us/j/4546000348"
 
     - title : "ปฐมนิเทศหลักสูตร DCI"

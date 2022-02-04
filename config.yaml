@@ -12,7 +12,7 @@ params:
   cookies:
     enable: no
     expire_days: 2
-  description: This is meta description
+  description: Design Thinking, Coaching, and Innovative Classroom Designing
   email: upskill.reskill.educhula@gmail.com
   google_analitycs_id: ''
   logo: images/logo2.png

@@ -70,16 +70,16 @@ Languages:
           url: "about"
           weight: 1
         - hasChildren: yes
-          name: Pages
+          name: Mores
           weight: 2
         - name: สรุปการเรียนรู้ของผู้เข้าอบรม
-          parent: Pages
+          parent: Mores
           url: author/john-doe/
         - name: กำหนดการ
-          parent: Pages
+          parent: Mores
           url: event
         - name: ผลผลิตของหลักสูตร
-          parent: Pages
+          parent: Mores
           url: research
         - name: ความรู้เผยแพร่
           url: blog

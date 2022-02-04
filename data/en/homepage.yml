@@ -14,8 +14,18 @@ slider:
         label : "สมัครเข้าร่วมโครงการ"
         link : "https://forms.gle/LESQ5Tf21yhrezEW8"
 
-    - title : "ปฐมนิเทศหลักสูตร DCI"
+    - title : "วันแรกพบ DCI"
       content : "วันศุกร์ที่ 4 กุมภาพันธ์ 2565 เวลา 18:00-21:00 น."
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "เข้าสู่กิจกรรมปฐมนิเทศ"
+        link : "https://chula.zoom.us/j/4546000348"
+
+    - title : "ปฐมนิเทศหลักสูตร DCI"
+      content : "วันศุกร์ที่ 11 กุมภาพันธ์ 2565 เวลา 18:00-21:00 น."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down

@@ -1,6 +1,8 @@
 ---
 bg_image: images/backgrounds/page-title.jpg
-description: ""
+description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
+  nostrud.
 email: email2@example.org
 image: ""
 social:
@@ -10,16 +12,8 @@ social:
   link: '#'
 - icon: ti-github
   link: '#'
-title: ระบบจัดการเรียนรู้หลักสูตร DCI
-
+title: John doe
 ---
-
-
-### สรุปการเรียนรู้
-
-
-<iframe height="600" width="100%" frameborder="no" src="https://siwachoat.shinyapps.io/dcireport/"> </iframe>
-
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.
 Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.

@@ -8,10 +8,11 @@ title: "ระบบจัดการเรียนรู้ของหลั
 type: research
 ---
 
-### ระบบ DCI LMS
+
 
 ผู้เรียนสามารถดาวน์โหลดเอกสาร และเรียกดูข้อมูลการเรียนรู้ของตนเองได้
 
 
-- - underconstruction
 
+
+* [เข้าสู่ระบบ DCI tracker](https://siwachoat.shinyapps.io/dci2report/)

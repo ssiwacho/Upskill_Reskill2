@@ -83,9 +83,9 @@ Languages:
         - hasChildren: yes
           name: Mores
           weight: 3
-        - name: สรุปการเรียนรู้ของผู้เข้าอบรม
+        - name: ระบบจัดการเรียนรู้ DCI
           parent: Mores
-          url: research/research-2
+          url: lms/dcilms
         - name: กำหนดการ
           parent: Mores
           url: event/

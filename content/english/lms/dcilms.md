@@ -14,3 +14,7 @@ type: research
 
 
 * [เข้าสู่ระบบ DCI LMS](https://siwachoat.shinyapps.io/dci2report/)
+
+* [กิจกรรมแลกเปลี่ยนเรียนรู้สัปดาห์ที่ 2 : หลักโค้ชชิ่งเชิงสร้างสรรค์](https://padlet.com/embed/yz9yeaic81hsg5zd)
+
+

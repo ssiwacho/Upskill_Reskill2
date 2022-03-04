@@ -17,4 +17,4 @@ type: research
 
 * [กิจกรรมแลกเปลี่ยนเรียนรู้สัปดาห์ที่ 2 : หลักโค้ชชิ่งเชิงสร้างสรรค์](https://padlet.com/embed/yz9yeaic81hsg5zd)
 
-
+* [กิจกรรมแลกเปลี่ยนเรียนรู้สัปดาห์ที่ 4: การคิดออกแบบ](https://jamboard.google.com/d/1gPFuffscH6LZ7PmcAsa_T9heiOpEIIJcrofRO8H7cCk/edit?usp=sharing)

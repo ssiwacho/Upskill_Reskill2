@@ -13,8 +13,6 @@ speaker:
   image: images/event-speakers/pic_chutiwat.png
   name: อ.ดร.ชุติวัฒน์ สุวัตถิพงศ์
 
-
-  
 title: "Digital tools for innovative classroom"
 type: event
 ---

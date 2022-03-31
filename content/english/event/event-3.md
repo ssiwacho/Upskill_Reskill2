@@ -21,4 +21,4 @@ type: event
 การโค้ชชิ่งหรือการชี้แนะ (coaching) เป็นกระบวนการของผู้ชี้แนะในการสร้างความสัมพันธ์ระหว่างบุคคล เพื่อช่วยให้เกิดการเรียนรู้ จนบรรลุเป้าหมายการทำงานในระดับที่สูงขึ้น มีความเข้มแข็ง และภาคภูมิใจในตนเอง อันนับเป็นกระบวนการเสริมพลังอำนาจของบุคคลที่ได้รับการชี้แนะ (Mink, Owen, & Mink, 1993)
 
 
-<iframe src="https://drive.google.com/file/d/1Kn-i1dJo5c0tkgi-177FOpeQ1afltZFZ/preview" width="640" height="480" allow="autoplay"></iframe>
+{{< youtube k7huybAoIvg >}}

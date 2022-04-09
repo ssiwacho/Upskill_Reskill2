@@ -21,3 +21,16 @@ title: "Research for Innovative Classroom using Design Thinking & Design Thinkin
 type: event
 ---
 
+**หมายเหตุ** ในการรับชมคลิปวิดีโอย้อนหลัง ขอให้ผู้เข้าอบรมให้ใช้ google chrome ที่ login google account ด้วย email ที่ให้ไว้กับโครงการ
+
+
+**session 1**
+{{< youtube 6XroacFLQ2I >}}
+
+
+**session 2**
+
+{{< youtube 1esYOPDIXpc >}}
+
+
+

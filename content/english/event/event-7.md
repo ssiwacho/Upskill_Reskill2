@@ -20,4 +20,9 @@ type: event
 ---
 
 
+**หมายเหตุ** ในการรับชมคลิปวิดีโอย้อนหลัง ขอให้ผู้เข้าอบรมให้ใช้ google chrome ที่ login google account ด้วย email ที่ให้ไว้กับโครงการ
+
+{{< youtube lW4pALL7aqM >}}
+
+
 

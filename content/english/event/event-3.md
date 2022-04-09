@@ -23,6 +23,6 @@ type: event
 
 ## คลิปย้อนหลัง
 
-**หมายเหตุ** ในการรับชมคลิปวิดีโอย้อนหลัง ขอให้ผู้เข้าอบรมให้ใช้ google chrome ที่ login google account ด้วย email ที่ให้ไว้กับโครงการ
+**หมายเหตุ** ในการรับชมคลิปวิดีโอย้อนหลัง ขอให้ผู้เข้าอบรมใช้ google chrome ที่ login google account ด้วย gmail ที่ให้ไว้กับโครงการาร
 
 {{< youtube k7huybAoIvg >}}

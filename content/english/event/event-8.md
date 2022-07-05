@@ -17,5 +17,9 @@ title: "Digital tools for innovative classroom"
 type: event
 ---
 
+**หมายเหตุ** ในการรับชมคลิปวิดีโอย้อนหลัง ขอให้ผู้เข้าอบรมใช้ google chrome ที่ login google account ด้วย gmail ที่ให้ไว้กับโครงการ
+
+{{< youtube cInb2A7sR3s >}}
+
 
 

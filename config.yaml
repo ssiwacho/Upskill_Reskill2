@@ -86,7 +86,7 @@ Languages:
         - name: ระบบจัดการเรียนรู้ DCI
           parent: Mores
           url: lms/dcilms
-        - name: กำหนดการ
+        - name: ดูคลิปย้อนหลัง (DCI รุ่น 2)
           parent: Mores
           url: event/
         - name: ความรู้เผยแพร่

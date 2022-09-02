@@ -21,8 +21,8 @@ slider:
       # available animation : left, right, up, down
       button:
         enable : yes
-        label : "สมัครเข้าร่วมโครงการ"
-        link : "https://forms.gle/kHC66WwgvrRLLugW"
+        label : "เข้าสู่ห้องเรียน"
+        link : "https://chula.zoom.us/j/4546000348"
 
   #  - title : "ปฐมนิเทศหลักสูตร DCI และหลักโค้ชชิ่งเชิงสร้างสรรค์"
   #    content : "วันศุกร์ที่ 11 กุมภาพันธ์ 2565 เวลา 17:45-21:00 น."

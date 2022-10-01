@@ -81,13 +81,13 @@ Languages:
           url: about/
           weight: 1
         - hasChildren: yes
-          name: Mores
+          name: DCI รุ่น 3
           weight: 3
         - name: ระบบจัดการเรียนรู้ DCI
-          parent: Mores
+          parent: DCI รุ่น 3
           url: lms/dcilms
-        - name: ดูคลิปย้อนหลัง (DCI รุ่น 2)
-          parent: Mores
+        - name: ดูคลิปย้อนหลัง
+          parent: DCI รุ่น 3
           url: event/
         - name: ความรู้เผยแพร่
           url: blog/

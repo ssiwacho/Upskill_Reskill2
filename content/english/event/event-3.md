@@ -1,19 +1,19 @@
 ---
 apply_url: 'https://chula.zoom.us/j/4546000348'
 bg_image: images/backgrounds/innovative.jpg
-date: "2022-09-09T18:00:17"
-description: กระบวนการโค้ชชิ่งและการให้ข้อมูลป้อนกลับ
+date: "2022-09-16T18:00:17"
+description: Design Thinking I
 draft: false
 fee: ''
 image: images/events/feature-bg.jpg
 location: Zoom Meeting
 publishDate: "2019-01-01T00:00:00Z"
 speaker:
-- designation: Chief Executive Officer บริษัท โค้ด ออฟ ซัคเซส จำกัด
-  image: images/event-speakers/drchor.png
-  name: ดร.พงศ์ปณต พัสระ
+- designation: วิทยาลัยเทคโนโลยีอุตสาหกรรม มจพ.
+  image: images/event-speakers/Manager3.png
+  name: รศ.ดร.ศจีมาจ ณ วิเชียร
 
-title: สัปดาห์ 2 - กระบวนการโค้ชชิ่งและการให้ข้อมูลป้อนกลับ
+title: สัปดาห์ 3 - Design Thinking I
 type: event
 ---
 
@@ -22,4 +22,4 @@ type: event
 
 **หมายเหตุ** ในการรับชมคลิปวิดีโอย้อนหลัง ขอให้ผู้เข้าอบรมใช้ google chrome ที่ login google account ด้วย gmail ที่ให้ไว้กับโครงการ
 
-{{< youtube RnwBI4ZMQvk >}}
+{{< youtube 98cx03h5s8A >}}

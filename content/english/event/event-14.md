@@ -9,7 +9,7 @@ image: images/events/feature-bg.jpg
 location: Zoom Meeting
 publishDate: "2019-01-01T00:00:00Z"
 speaker:
-- designation: คณะจิตวิทยา จุฬาลงกรณ์มหาวิทยาลัย
+- designation: มหาวิทยาลัยบูรพา
   image: images/event-speakers/sompong.jpg
   name: ผศ.ดร.สมพงษ์ ปั้นหุ่น
   

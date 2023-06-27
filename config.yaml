@@ -65,7 +65,7 @@ params:
 Languages:
   en:
     contentDir: content/english
-    copyright: Copyright &copy; 2022 DCI Team by [Faculty of Education, Chulalongkorn University](https://www.facebook.com/profile.php?id=100069330084205)
+    copyright: Copyright &copy; 2023 DCI Team by [Faculty of Education, Chulalongkorn University](https://www.facebook.com/profile.php?id=100069330084205)
     home: Home
     languageCode: en-us
     languageName: En
@@ -80,14 +80,14 @@ Languages:
         - name: เกี่ยวกับหลักสูตร
           url: about/
           weight: 1
-        - hasChildren: yes
-          name: DCI รุ่น 3
-          weight: 3
-        - name: ระบบจัดการเรียนรู้ DCI
-          parent: DCI รุ่น 3
-          url: lms/dcilms
+        #- hasChildren: yes
+        #  name: DCI รุ่น 3
+        #  weight: 3
+        #- name: ระบบจัดการเรียนรู้ DCI
+        #  parent: DCI รุ่น 3
+        #  url: lms/dcilms
         - name: ดูคลิปย้อนหลัง
-          parent: DCI รุ่น 3
+        #  parent: DCI รุ่น 3
           url: event/
         - name: ความรู้เผยแพร่
           url: blog/
